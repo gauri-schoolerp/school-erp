@@ -1,0 +1,2 @@
+# school-erp
+First repository
